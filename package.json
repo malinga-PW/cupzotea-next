@@ -13,7 +13,7 @@
     "bootstrap": "^5.3.8",
     "circletype": "^2.3.0",
     "gsap": "^3.13.0",
-    "next": "16.0.1",
+    "next": "14.2.5",
     "react": "^18.2.0",
     "react-circular-progressbar": "^2.2.0",
     "react-countup": "^6.5.3",
@@ -28,11 +28,14 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@types/node": "^24.9.2",
-    "@types/react": "^19.2.2",
-    "@types/react-dom": "^19.2.2",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
     "babel-plugin-react-compiler": "^1.0.0",
     "eslint": "^9.38.0",
     "eslint-config-next": "16.0.1",
     "typescript": "^5.9.3"
   }
+}
+"engines": {
+  "node": "18.x"
 }
