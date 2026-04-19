@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "thumb": "v3.jpg",
+        "icon": "quote.png",
+        "title": "The best service ever",
+        "description": "Targeting consultation discover apartments. Indulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering.",
+        "name": "Matthew J. Wyman",
+        "designation": "Senior Consultant"
+    },
+    {
+        "id": 2,
+        "thumb": "v1.jpg",
+        "icon": "quote.png",
+        "title": "Awesome opportunities",
+        "description": "Consultation discover apartments. Indulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering point.",
+        "name": "Anthom Bu Spar",
+        "designation": "Marketing Manager"
+    }
+]

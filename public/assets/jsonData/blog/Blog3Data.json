@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "thumb": "10.jpg",
+        "badge": "payment",
+        "date": "July 24, 2025",
+        "title": "Picked up a Brussels burger Sprouts with ham",
+        "btnText": "Read More",
+        "delay": ""
+    },
+    {
+        "id": 2,
+        "thumb": "11.jpg",
+        "badge": "loan",
+        "date": "October 18, 2025",
+        "title": "This prefabrice passive house is highly sustainable",
+        "btnText": "Read More",
+        "delay": "200"
+    },
+    {
+        "id": 3,
+        "thumb": "12.jpg",
+        "badge": "insentive",
+        "date": "August 26, 2025",
+        "title": "Announcing if attachment resolution sentim.",
+        "btnText": "Read More",
+        "delay": "200"
+    }
+]

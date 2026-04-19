@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "count": 56,
+        "suffix": "K",
+        "label": "Clients around the world"
+    },
+    {
+        "id": 2,
+        "count": 30,
+        "suffix": "+",
+        "label": "Award Winning"
+    },
+    {
+        "id": 3,
+        "count": 97,
+        "suffix": "%",
+        "label": "Business Growth"
+    },
+    {
+        "id": 4,
+        "count": 60,
+        "suffix": "+",
+        "label": "Team Members"
+    }
+]

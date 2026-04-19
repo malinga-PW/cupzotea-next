@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "bgImage": "7.jpg",
+        "end": 75,
+        "operator": "%",
+        "subtitle": "Smart Technology",
+        "titleFirst": "Super fast from",
+        "titleLast": "others design tools",
+        "delay": ""
+    },
+    {
+        "id": 2,
+        "bgImage": "8.jpg",
+        "end": 28,
+        "operator": "K",
+        "subtitle": "AI Innovation",
+        "titleFirst": "Active and premium",
+        "titleLast": "regular user every day",
+        "delay": "200"
+    }
+]

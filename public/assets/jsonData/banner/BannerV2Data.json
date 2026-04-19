@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "bgImage": "1.jpg",
+        "title": "Meet Consulting",
+        "headline": "Financial Analysis Developing Meeting.",
+        "buttonText": "Get Consultant"
+    },
+    {
+        "id": 2,
+        "bgImage": "4.jpg",
+        "title": "Coaching & Consulting",
+        "headline": "Proper solution for business growth",
+        "buttonText": "Get Consultant"
+    }
+]

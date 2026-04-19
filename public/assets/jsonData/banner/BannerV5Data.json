@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "bgImage": "14.jpg",
+        "title": "Worldwide logistic services",
+        "description": "Dissuade ecstatic and properly saw entirely sir why laughter endeavor. Maximum point on my jointure horrible margaret.",
+        "buttonText": "Contact Us",
+        "illustration": "1.png"
+    },
+    {
+        "id": 2,
+        "bgImage": "15.jpg",
+        "title": "Full sustainable cargo solutions!",
+        "description": "Dissuade ecstatic and properly saw entirely sir why laughter endeavor. Maximum point on my jointure horrible margaret.",
+        "buttonText": "Contact Us",
+        "illustration": "2.png"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "thumb": "11.png",
+        "delay": "100ms"
+    },
+    {
+        "id": 2,
+        "thumb": "22.png",
+        "delay": "200ms"
+    },
+    {
+        "id": 3,
+        "thumb": "33.png",
+        "delay": "300ms"
+    },
+    {
+        "id": 4,
+        "thumb": "44.png",
+        "delay": "400ms"
+    },
+    {
+        "id": 5,
+        "thumb": "55.png",
+        "delay": "500ms"
+    },
+    {
+        "id": 6,
+        "thumb": "66.png",
+        "delay": "600ms"
+    }
+]

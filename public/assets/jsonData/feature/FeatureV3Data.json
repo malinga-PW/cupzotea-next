@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "icon": "33.png",
+        "title": "Auto Video Captioning",
+        "description": "Earnestly so do instantly pretended. See general few civilly amiable pleased account carried. Resolve parties but she shewing,",
+        "list": [
+            "Transcription",
+            "Subtitle",
+            "Foreign Language"
+        ],
+        "delay": ""
+    },
+    {
+        "id": 2,
+        "icon": "34.png",
+        "title": "Programming Solutions",
+        "description": "Aarnestly so do instantly pretended. See general few civilly amiable pleased account carried. Resolve parties but she shewing,",
+        "list": [
+            "Functionality",
+            "Mathmetics",
+            "Bug Fixing"
+        ],
+        "delay": "100"
+    },
+    {
+        "id": 3,
+        "icon": "35.png",
+        "title": "Artificial Graphics",
+        "description": "Barnestly so do instantly pretended. See general few civilly amiable pleased account carried. Resolve parties but she shewing,",
+        "list": [
+            "Image Generate",
+            "Restoration",
+            "Color Mix"
+        ],
+        "delay": "200"
+    },
+    {
+        "id": 4,
+        "icon": "36.png",
+        "title": "Machine Learning",
+        "description": "Tarnestly so do instantly pretended. See general few civilly amiable pleased account carried. Resolve parties but she shewing,",
+        "list": [
+            "Transcription",
+            "Subtitle",
+            "Foreign Language"
+        ],
+        "delay": ""
+    },
+    {
+        "id": 5,
+        "icon": "37.png",
+        "title": "Speak & Command",
+        "description": "Sarnestly so do instantly pretended. See general few civilly amiable pleased account carried. Resolve parties but she shewing,",
+        "list": [
+            "Transcription",
+            "Subtitle",
+            "Foreign Language"
+        ],
+        "delay": "100"
+    }
+]

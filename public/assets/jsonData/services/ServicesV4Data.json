@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "activeClass": "active",
+        "icon": "23.png",
+        "title": "Air freight transportation"
+    },
+    {
+        "id": 2,
+        "activeClass": "",
+        "icon": "20.png",
+        "title": "Ocean freight transportation"
+    },
+    {
+        "id": 3,
+        "activeClass": "",
+        "icon": "21.png",
+        "title": "Land freight transportation"
+    },
+    {
+        "id": 4,
+        "activeClass": "",
+        "icon": "22.png",
+        "title": "Rail freight transportation"
+    }
+]
